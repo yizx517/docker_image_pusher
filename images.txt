@@ -1,1 +1,1 @@
-xiaoyaliu/alist
+jellyfin/jellyfin
